@@ -1,0 +1,30 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+
+      "admob_inter": "ca-app-pub-6304902236514230/2327211753",
+      "admob_native": "ca-app-pub-6304902236514230/1927594801",
+
+      "startappid": "",
+
+      "select_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN",
+      
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      
+      "fan_native": "YOUR_PLACEMENT_ID",
+      
+      "packagename": "com.kedev.fakecallfrost",
+      "interval":5
+      }
+   ],
+
+  "More":
+  [
+    
+  ]
+
+}
