@@ -4,8 +4,8 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
 
-      "admob_inter": "ca-app-pub-8600588598739698/7787060604",
-      "admob_native": "ca-app-pub-8600588598739698/2603210207",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
 
       "startappid": "",
 
@@ -17,7 +17,7 @@
       
       "fan_native": "YOUR_PLACEMENT_ID",
       
-      "packagename": "com.kedev.fakecallfrost",
+      "packagename": "com.kedev.fakecallkopjo",
       "interval":5
       }
    ],
