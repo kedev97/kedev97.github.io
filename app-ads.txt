@@ -1,4 +1,4 @@
-google.com, pub-8600588598739698, DIRECT, f08c47fec0942fa0
+google.com, pub-6372655865928482, DIRECT, f08c47fec0942fa0
 
 
 ----------------------------
